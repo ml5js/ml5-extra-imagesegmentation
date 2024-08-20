@@ -1,6 +1,6 @@
 {
   "name": "ml5-extra-imagesegmentation",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "Friendly add-on for ml5.js for doing image segmentation in the browser. Based on transformers.js.",
   "main": "src/ml5-extra-imagesegmentation.js",
   "scripts": {
