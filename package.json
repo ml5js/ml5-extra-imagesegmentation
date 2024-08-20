@@ -1,0 +1,20 @@
+{
+  "name": "ml5-extra-imagesegmentation",
+  "version": "0.1",
+  "description": "Friendly add-on for ml5.js for doing image segmentation in the browser. Based on transformers.js.",
+  "main": "src/ml5-extra-imagesegmentation.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ml5js/ml5-extra-imagesegmentation.git"
+  },
+  "author": "ml5",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ml5js/ml5-extra-imagesegmentation/issues"
+  },
+  "homepage": "https://github.com/ml5js/ml5-extra-imagesegmentation",
+  "dependencies": {
+  }
+}
