@@ -44,7 +44,7 @@ Once the segmentation has finished, the callback function is called with an arra
 
 ```
 function gotResults(results) {
-  for (let i=0; i < resuts.length; i++) {
+  for (let i=0; i < results.length; i++) {
     result = results[i];
     console.log(result);
   }
